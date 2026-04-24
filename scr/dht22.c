@@ -5,7 +5,7 @@
  *******************************************************************************
  *                  MIT License
  * 
- * Copyright (c) 2016 Pedro Sánchez Ramírez
+ * Copyright (c) 2016 Pedro SÃ¡nchez RamÃ­rez
  * 
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -24,16 +24,6 @@
  * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
- *******************************************************************************
- * 
- *                   ... C H A N G E L O G ...
- *******************************************************************************
- * Rev.     v1.0.0
- * Author:  Pedro Sanchez Ramirez  
- * Email:   mrchunckuee.electronics@gmail.com     
- * Blog:    https://mrchunckuee.blogspot.com/   
- * Date         Comment
- * 01/03/2026   - Created and tested the library on PIC18F25K22.
  ********************************************************************************/
 
 #include <stdio.h>
