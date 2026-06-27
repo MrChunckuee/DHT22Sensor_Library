@@ -56,4 +56,4 @@ void main(void) {
 
 ## Documentation & Tutorial
 For a detailed implementation explanation and step-by-step guide, you can review the following examples:
-* [https://mrchunckuee.blogspot.com/2026/03/pic18f25k22-xc8-uso-del-sensor-de.html](https://mrchunckuee.blogspot.com/2026/05/DHT22-Sensor-Library.html)
+* [https://mrchunckuee.blogspot.com/2026/05/DHT22-Sensor-Library.html](https://mrchunckuee.blogspot.com/2026/05/DHT22-Sensor-Library.html)
