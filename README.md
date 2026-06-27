@@ -56,5 +56,4 @@ void main(void) {
 
 ## Documentation & Tutorial
 For a detailed implementation explanation and step-by-step guide, you can review the following examples:
-* [PIC18F25K22 & XC8: Uso del sensor de temperatura y humedad relativa DHT22/AM2302 - Mostrar datos en una LCD16x2](https://mrchunckuee.blogspot.com/2026/03/pic18f25k22-xc8-uso-del-sensor-de.html)
-* [PIC18F25K22 & XC8: Uso de bluetooth FSC-BT986 - Enviar datos del sensor DHT22 a un monitor serial](https://mrchunckuee.blogspot.com/2026/04/pic18f25k22-xc8-uso-de-bluetooth-fsc.html)
+* [https://mrchunckuee.blogspot.com/2026/03/pic18f25k22-xc8-uso-del-sensor-de.html](https://mrchunckuee.blogspot.com/2026/05/DHT22-Sensor-Library.html)
